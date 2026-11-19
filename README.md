@@ -26,4 +26,4 @@ Results are written to `outputs/`. This repository documents coursework research
 
 ## Included results
 
-`outputs/factor_summary.csv` and `outputs/cumulative_returns.png` contain the project run produced from the authorised research extract. The raw vendor exports remain excluded from version control; they cannot be redistributed through this repository.
+`factor_summary.csv` and `cumulative_returns.png` are the public project run produced from the authorised research extract. The raw vendor exports remain excluded from version control; they cannot be redistributed through this repository.
